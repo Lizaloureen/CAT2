@@ -2,8 +2,8 @@ Project Summary - Student 150467
 
 This project demonstrates key Object-Oriented Programming (OOP) concepts in Java, including:  
 
-- Encapsulation** through private attributes, getters, setters, and validation to enforce data protection.  
-- method Overloading & Overriding** by implementing multiple versions of a method and redefining behavior in subclasses.  
+- Encapsulation through private attributes, getters, setters, and validation to enforce data protection.  
+- method Overloading & Overriding by implementing multiple versions of a method and redefining behavior in subclasses.  
 - xception Handling** with `try-catch-finally` to prevent errors like division by zero.  
 How to Run
 - Ensure Java is installed.  
